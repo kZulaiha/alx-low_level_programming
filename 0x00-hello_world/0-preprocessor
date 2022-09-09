@@ -1,2 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD=======>>>>>>> 7cd7e8125fba13d8956c554d7ec7442365227171CFILE=main.c
+gcc -E $CFILE >>c
