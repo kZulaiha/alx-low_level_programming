@@ -1,13 +1,10 @@
-#include<studio.h>
-
+#include<stdio.>
 /**
-*main-Entry point
-*
-*Return: Always 0 (Sucess)
+* main - Betty
+* Return: 0 made me do it
 */
 int main(void)
 {
-
-        return(0);
+printf("Hello, World\n");
+return (0);
 }
-
