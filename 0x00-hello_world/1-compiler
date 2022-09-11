@@ -1,2 +1,3 @@
-#!/bin/bash
-gcc -c cfile.c
+
+'#!/bin/bash
+echogcc -c cfile.c
