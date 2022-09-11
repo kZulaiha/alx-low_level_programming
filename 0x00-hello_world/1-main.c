@@ -7,6 +7,7 @@
  */
 int main(void)
 {
-	printf("Holberton School");
+	printf("cisfun\n");
+	
 	return (0);
 }
